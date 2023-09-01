@@ -1,0 +1,28 @@
+{
+  "app-name": "Szut Software",
+    "views": {
+        "home": {
+            "title": "Home",
+            "nav-title": "Home"
+        },
+        "contact": {
+            "title": "Contact Us",
+            "nav-title": "Contact"
+        },
+        "services": {
+            "title": "Services we offer",
+            "nav-title": "Services"
+        },
+        "technologies": {
+            "title": "Technologies",
+            "nav-title": "Technologies"
+        },
+        "about-us": {
+            "title": "About Us",
+            "nav-title": "About Us"
+        },
+    },
+    "hero": {
+        "text": "Tworzymy strony internetowe specjalnie pod twoją firmę"
+    }
+}
