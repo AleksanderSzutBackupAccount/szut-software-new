@@ -1,9 +1,9 @@
 <template>
     <nav class="app-navigation">
         <router-link
-            class="app-navigation__item"
             v-for="item in navigationItems"
             :key="item"
+            class="app-navigation__item"
             :to="{ name: item }"
         >
             {{ $t(`views.${item}.nav-title`) }}

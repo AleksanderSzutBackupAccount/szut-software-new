@@ -1,5 +1,5 @@
 <template>
-    <div class="home-view" id="particles-js"></div>
+    <div id="particles-js" class="home-view"></div>
 </template>
 
 <script lang="ts"></script>
