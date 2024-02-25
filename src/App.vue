@@ -1,6 +1,5 @@
 <template class="app">
     <app-header />
-    <router-view />
     <ParticlesJS />
     <ParticlesJS shape-type-string="circle" />
 </template>
